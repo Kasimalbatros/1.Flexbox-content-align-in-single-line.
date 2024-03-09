@@ -1,0 +1,14 @@
+.container{
+  display:flex;
+  gap:10px;
+}
+
+.one{
+  background-color: lightgreen;
+}
+.two{
+  background-color: lightgreen;
+}
+.three{
+  background-color: lightgreen;
+}
